@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Lonely Walk",
+  "base_artist": "小田桐仁義",
+  "createdAt": "2025-12-03T21:38:41.491036Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hello Lonely (Walk Away From This)",
+      "artist": "Theory Of A Deadman",
+      "has_synced": true,
+      "path": "select/01_Hello_Lonely_(Walk_Away_From_This)_Theory_Of_A_Deadman.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hello Lonely (Walk Away from This) (Album Version)",
+      "artist": "Theory Of A Deadman",
+      "has_synced": true,
+      "path": "select/02_Hello_Lonely_(Walk_Away_from_This)_(Album_Version)_Theory_Of_A_Deadman.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "LONELY WALK",
+      "artist": "JAKE SOMMER",
+      "has_synced": true,
+      "path": "select/03_LONELY_WALK_JAKE_SOMMER.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "A Lonely Walk in a Desolate Cold Pine Forest",
+      "artist": "Striborg",
+      "has_synced": false,
+      "path": "select/04_A_Lonely_Walk_in_a_Desolate_Cold_Pine_Forest_Striborg.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hello Lonely (Walk Away From T",
+      "artist": "Theory Of A Deadman",
+      "has_synced": true,
+      "path": "select/05_Hello_Lonely_(Walk_Away_From_T_Theory_Of_A_Deadman.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lonely Walk",
+      "artist": "Kim Yuna",
+      "has_synced": true,
+      "path": "select/06_Lonely_Walk_Kim_Yuna.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "A Lonely Walk",
+      "artist": "Next To None",
+      "has_synced": true,
+      "path": "select/07_A_Lonely_Walk_Next_To_None.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hello Lonely (Walk Away from",
+      "artist": "Theory of a Deadman",
+      "has_synced": true,
+      "path": "select/08_Hello_Lonely_(Walk_Away_from_Theory_of_a_Deadman.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Theory Of A Deadman - Hello Lonely (Walk Away From This)",
+      "artist": "Alternative Times",
+      "has_synced": false,
+      "path": "select/09_Theory_Of_A_Deadman_-_Hello_Lonely_(Walk_Away_From_This)_Alternative_Times.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lonely Walk In A Desolate Cold Pine Forest",
+      "artist": "Striborg",
+      "has_synced": false,
+      "path": "select/10_Lonely_Walk_In_A_Desolate_Cold_Pine_Forest_Striborg.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hello Lonely (Walk Away From This)",
+      "artist": "Theory Of A Deadman",
+      "has_synced": true,
+      "path": "select/11_Hello_Lonely_(Walk_Away_From_This)_Theory_Of_A_Deadman.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hello Lonely (Walk Away From This�",
+      "artist": "Theory of a Deadman",
+      "has_synced": true,
+      "path": "select/12_Hello_Lonely_(Walk_Away_From_This�_Theory_of_a_Deadman.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "hello_lonely_(walk_away_from_this)",
+      "artist": "Theory Of A Dead Man",
+      "has_synced": true,
+      "path": "select/13_hello_lonely_(walk_away_from_this)_Theory_Of_A_Dead_Man.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "A Lonely Walk",
+      "artist": "Next to None, Neal Morse, Nyke Van Wyk & Ron “Bumblefoot” Thal",
+      "has_synced": true,
+      "path": "select/14_A_Lonely_Walk_Next_to_None,_Neal_Morse,_Nyke_Van_Wyk_&_Ron_“Bumblefoot”_Thal.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lonely Walk",
+      "artist": "小田桐仁義",
+      "has_synced": false,
+      "path": "select/pl_01_Lonely_Walk_小田桐仁義.txt"
+    }
+  ]
+}
